@@ -1,0 +1,9 @@
+{
+  "name": "Gulp Usage Example",
+  "homepage": "http://www.kisphp.com",
+  "private": false,
+  "dependencies": {
+    "bootstrap": "3.3.4",
+    "jquery": "1.11.3"
+  }
+}
